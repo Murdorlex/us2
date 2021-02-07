@@ -1,0 +1,43 @@
+body{
+  text-align: center;
+  font-family: 'Montserrat'
+
+}
+
+#testimonials{
+  text-align: center;
+}
+.color-back{
+  background-color: #b1cbbb;
+  color: #fff;
+}
+.mensaje{
+  background-color: #f7cac9;
+  padding: 7% 15%;
+}
+
+.imagen1{
+  width: 60%;
+
+}
+
+#videos{
+  text-align: center;
+  background-color: #e0e2e4;
+  padding: 100px;
+
+}
+.pricing{
+  padding: 3% 5%;
+}
+
+#pie-pagina{
+  background-color: #fff;
+  text-align: center;
+  padding: 100px;
+
+}
+.casa{
+  width: 40%;
+  padding: 7% 10%;
+}
